@@ -29,6 +29,17 @@ qckfx will spin up the simulator, build and install a fresh version of your app,
 - **Replay** - Run the recording. It performs the same actions and compares screenshots.
 - **Diff** - If something changed, you see exactly what. Accept or reject.
 
+## Use with AI Coding Agents
+
+qckfx includes MCP support for Claude Code and Cursor. Your agent can run tests and see exactly what changed.
+
+To install, click the `q` menu bar icon and select **Install as MCP**. One click installs it to Claude Code or Cursor. You can uninstall from the same menu.
+
+## Current Limitations
+
+- macOS only
+- iOS Simulator only (no physical devices)
+
 ## Learn more
 
 Visit [qckfx.com](https://qckfx.com) for more information.
